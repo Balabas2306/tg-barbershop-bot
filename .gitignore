@@ -1,0 +1,13 @@
+# секреты
+.env
+
+# база данных
+*.db
+
+# окружение Python
+.venv/
+__pycache__/
+*.pyc
+
+# кэш тестов
+.pytest_cache/
